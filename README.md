@@ -1,2 +1,2 @@
-# gerador-dados
-Gerador de dados em python 
+# Gerador de dados em Python 
+Necessário da lib "faker" (pip install faker)
